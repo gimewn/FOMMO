@@ -1,0 +1,135 @@
+[
+{
+"model": "movies.genre",
+"pk": 28,
+"fields": {
+"genre": "액션"
+}
+},
+{
+"model": "movies.genre",
+"pk": 12,
+"fields": {
+"genre": "모험"
+}
+},
+{
+"model": "movies.genre",
+"pk": 16,
+"fields": {
+"genre": "애니메이션"
+}
+},
+{
+"model": "movies.genre",
+"pk": 35,
+"fields": {
+"genre": "코미디"
+}
+},
+{
+"model": "movies.genre",
+"pk": 80,
+"fields": {
+"genre": "범죄"
+}
+},
+{
+"model": "movies.genre",
+"pk": 99,
+"fields": {
+"genre": "다큐멘터리"
+}
+},
+{
+"model": "movies.genre",
+"pk": 18,
+"fields": {
+"genre": "드라마"
+}
+},
+{
+"model": "movies.genre",
+"pk": 10751,
+"fields": {
+"genre": "가족"
+}
+},
+{
+"model": "movies.genre",
+"pk": 14,
+"fields": {
+"genre": "판타지"
+}
+},
+{
+"model": "movies.genre",
+"pk": 36,
+"fields": {
+"genre": "역사"
+}
+},
+{
+"model": "movies.genre",
+"pk": 27,
+"fields": {
+"genre": "공포"
+}
+},
+{
+"model": "movies.genre",
+"pk": 10402,
+"fields": {
+"genre": "음악"
+}
+},
+{
+"model": "movies.genre",
+"pk": 9648,
+"fields": {
+"genre": "미스터리"
+}
+},
+{
+"model": "movies.genre",
+"pk": 10749,
+"fields": {
+"genre": "로맨스"
+}
+},
+{
+"model": "movies.genre",
+"pk": 878,
+"fields": {
+"genre": "SF"
+}
+},
+{
+"model": "movies.genre",
+"pk": 10770,
+"fields": {
+"genre": "TV 영화"
+}
+},
+{
+"model": "movies.genre",
+"pk": 53,
+"fields": {
+"genre": "스릴러"
+}
+},
+{
+"model": "movies.genre",
+"pk": 10752,
+"fields": {
+"genre": "전쟁"
+}
+},
+{
+"model": "movies.genre",
+"pk": 37,
+"fields": {
+"genre": "서부"
+}
+}
+]
